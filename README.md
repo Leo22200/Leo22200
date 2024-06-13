@@ -1,6 +1,6 @@
 ## Donut worry, be happy 🍩
 
-Meu nome é Leonarda
+Meu nome é Leonarda 🐹
 
 - Espaço para atividades esolares ([Alura](https://www.alura.com.br)) 📖
 - Compartilhamento de projetos
